@@ -16,7 +16,7 @@ Beef-External allows you to use 'Beef-XSS' cross the internet securly and anonym
 
 > Please Watch The Video To Understand The Usage
 
-* https://www.youtube.com/watch?v=gI4YrlL5KEY
+* Video comming soon!
 
 
 # Note 0:
