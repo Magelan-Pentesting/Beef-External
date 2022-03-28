@@ -58,7 +58,7 @@ echo -e "${yellow}[+]${green}Please Input Your Authtoken/Gebe Deinen Authotoken 
 echo -e "${yellow}[ENG]${lightblue}~${yellow}If you don't know what your authtoken is, please enter 'authtoken' or 'help'\n\n"
 read -p "$(echo -e '\n\n')${lightblue}Beef-Ex${purple}@${green}$(whoami)${RED}[${reset}~${RED}]${purple}" au
 if [ $au == "authtoken" ] || [ $au == "help" ];then
-	firefox https://www.youtube.com/watch?v=FFkF81r7yNA &> /dev/null &
+	firefox https://youtu.be/5WAz8vbQ8xw &> /dev/null &
 	echo -e "\n${yellow}[ENG]${lightblue}~${yellow}Please Watch The Opened Video.\n\n"
 	echo -e "${yellow}[+]${green}Please Input Your Authtoken/Lutfen Authtoken'ini Gir:\n"
 	read -p "$(echo -e '\n\n')${lightblue}Beef-Ex${purple}@${green}$(whoami)${RED}[${reset}~${RED}]${purple}" au
