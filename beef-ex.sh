@@ -33,7 +33,7 @@ function banner(){
 	echo -e "${purple}	 	       #>Author:Magelan"                                                    
 	echo -e "${purple}             #>Github:Magelan-Pentesting"
 	echo -e "${purple}             #>Youtube:Magelan-Pentesting"
-	echo -e "${purple}		       #>Version:2.4\n\n"
+	echo -e "${purple}		       #>Version:2.4\n"
 	
 	
 }
