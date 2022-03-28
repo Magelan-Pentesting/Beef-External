@@ -15,7 +15,7 @@ echo -e "${yellow}   | |_) |  __/  __/  _|_____| |___ >  <"
 echo -e "${yellow}   |____/ \___|\___|_|       |_____/_/\_\ \n" 
 echo -e "${purple}	 	       #>Author:Magelan"                                                    
 echo -e "${purple}		       #>Github:Magelan-Pentesting"
-echo -e "${purple}             #>Youtube:Magelan-Pentesting"
+echo -e "${purple}                     #>Youtube:Magelan-Pentesting"
 echo -e "${purple}		       #>Version:2.4\n\n"
 if [[ $(whoami) == "root" ]];then
 	echo -e "`tput setaf 196`[-]Please run this script without root privilages..\n\n~Beef Ex~"
