@@ -29,7 +29,7 @@ else
 	sudo apt update -y
 fi
 sudo chown -R $(whoami):$(whoami) *
-sudo chown -R $(whoami):$(whoami) ../Beef-Ex/
+sudo chown -R $(whoami):$(whoami) ../Beef-External/
 echo ${green}
 echo "Installing Beef.." 
 echo "--------------------" && sleep 2
