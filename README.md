@@ -22,6 +22,13 @@ Beef-External allows you to use 'Beef-XSS' cross the internet securly and anonym
 # Note 0:
 * Installation progress will take a while. Do not interrupt the progress. Especially, don't press to enter.
 
+# Note 1:
+* Use no root!
+* git clone https://github.com/Magelan-Pentesting/Beef-External.git
+* cd Beef-External
+* chmod a+x install.sh beef-ex.sh kill_beef.sh config/config.sh
+* ./install.sh
+* 
 # Version 2.4
 
 * Works Without Errors
