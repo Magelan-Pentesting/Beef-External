@@ -54,7 +54,7 @@ echo "--------------------"
 sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip -O ngrok/ngrok-stable-linux-amd64.zip
 unzip ngrok/ngrok-stable-linux-amd64.zip -d ngrok/
 sudo rm ngrok/ngrok-stable-linux-amd64.zip
-echo -e "${yellow}[+]${green}Please Input Your Authtoken/Lutfen Authtoken'ini Gir:\n\n"
+echo -e "${yellow}[+]${green}Please Input Your Authtoken/Gebe Deinen Authotoken ein:\n\n"
 echo -e "${yellow}[ENG]${lightblue}~${yellow}If you don't know what your authtoken is, please enter 'authtoken' or 'help'\n\n"
 read -p "$(echo -e '\n\n')${lightblue}Beef-Ex${purple}@${green}$(whoami)${RED}[${reset}~${RED}]${purple}" au
 if [ $au == "authtoken" ] || [ $au == "help" ];then
